@@ -1,0 +1,59 @@
+.invisivel{
+    display:none;
+  }
+  .visivel{
+    display:inline;
+  }
+  .inicial {
+    text-align: center;
+    font-size: 100px;
+    background-color: rgb(244, 224, 255);
+    width: 150px;
+    height: 200px;
+    border: 15px solid rgb(183, 135, 250);
+    padding: 10px;
+    margin: 20px;
+  }
+  .acertou {
+    text-align: center;
+    color:  rgb(244, 224, 255);
+    background-color: #bcf0e3;
+    width: 150px;
+    height: 200px;
+    border: 15px solid rgb(183, 135, 250);
+    padding: 10px;
+    margin: 20px;
+  }
+  .errou {
+    text-align: center;
+    
+    color: white;
+    background-color: #ff4a8f;
+    width: 150px;
+    height: 200px;
+    border: 15px solid black;
+    padding: 10px;
+    margin: 20px;
+  }
+
+  #resposta {
+    text-align: center;
+
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+   
+  }
+
+  body {
+    background-color: rgb(244, 224, 255);
+    text-align: center;
+  }
+
+  button {
+    background-color: rgb(183, 135, 250);
+  }
